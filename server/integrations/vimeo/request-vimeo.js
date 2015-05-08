@@ -19,7 +19,7 @@
 var Vimeo = require('./module-vimeo').Vimeo;
 
 var clientId = process.env.VIMEO_client_id;
-var clientSecret = process.env.VIMEO_client_secret
+var clientSecret = process.env.VIMEO_client_secret;
 var accessToken = process.env.VIMEO_access_token;
 
 // console.log('Vimeo', Vimeo);
